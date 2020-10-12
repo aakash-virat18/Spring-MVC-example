@@ -3,12 +3,28 @@
 
 <body>
 
-<h2>SPRING MVC HOME PAGE</h2>
+<h2>Spring MVC Demo - Home Page</h2>
 
-<br>
+<hr>
 
-To fill the form click <a href="http://localhost:8080/mvc-demo/showForm">here</a>
+<a href="hello/showForm">Hello World form</a>
+
+<br><br>
+
+<a href="student/showForm">Student form</a>
+
+<br><br>
+
+<a href="customer/showForm">Customer form</a>
+
 
 </body>
 
 </html>
+
+
+
+
+
+
+
